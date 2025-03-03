@@ -9,8 +9,6 @@ mvnw.cmd
 .DS_Store
 Thumbs.db
 
-# Ignore log files
-*.log
 
 # Ignore temporary files created by IDEs
 *.iml
