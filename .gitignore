@@ -1,3 +1,20 @@
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore Maven wrapper files
+mvnw
+mvnw.cmd
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files created by IDEs
+*.iml
+
 # Compiled class file
 *.class
 
